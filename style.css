@@ -1,0 +1,75 @@
+/*------------------------------------------------------------------
+File:		custom css
+Project:	Driven Local Framework v1.0
+Author: 	http://drivenlocal.com/
+-------------------------------------------------------------------*/
+body { 
+}
+.frame {
+}
+.text-color { 
+}
+
+/* ===== Header ===== */
+header {
+}
+.logo {
+}
+.phone {
+}
+
+/* ===== Navigation ===== */
+nav {
+}
+nav ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+nav ul li {
+}
+nav ul li a {
+}
+nav ul li a:hover {
+}
+
+/* ===== Hero ===== */
+.hero {
+}
+
+/* ===== Main Content ===== */
+.main-content { 
+}
+
+/* ===== Content Area ===== */
+.content {
+}
+
+/* ===== Sidebar =====*/
+.sidebar {
+}
+/* Widgets */
+.widget {
+}
+.widget-title {
+}
+.widget-content {
+}
+
+/* ===== Back to Top link ===== */
+
+.backtotop {
+	background: rgba(0,0,0,0.3);
+	padding: 10px 15px;
+	font-size: 18px;
+	color: #FFF;
+	border-radius: 3px;
+	-webkit-transition: background 0.1s ease-in-out;
+	transition: background 0.1s ease-in-out;
+}
+.backtotop:hover { background: rgba(0,0,0,0.5); }
+
+/* ===== Footer ===== */
+
+footer {
+}
